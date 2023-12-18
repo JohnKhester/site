@@ -1,0 +1,25 @@
+Отформатированные комментарии:
++ Rjovjrvrv vrmvrmvmrmvr= vr,v[rmvrm[vm[r vr,v[mrmvrm[v[r
++ 
++ cr[crc[rm[crm crm[mcrmc[r cmrmcrmc[r cr[cmrmcmr
++ 
++ [crncnr[ncc crncnr[ncr crm[c[rcr m.  crm[crm[cr cmr
+
+Список повторяющихся слов и их частота:
+rjovjrvrv: 1 раз
+vrmvrmvmrmvr: 1 раз
+vrvrmvrmvmr: 1 раз
+vrvmrmvrmvr: 1 раз
+crcrcrmcrm: 1 раз
+crmmcrmcr: 1 раз
+cmrmcrmcr: 1 раз
+crcmrmcmr: 1 раз
+crncnrncc: 1 раз
+crncnrncr: 1 раз
+crmcrcr: 1 раз
+m: 1 раз
+crmcrmcr: 1 раз
+cmr: 1 раз
+
+сводка
+5 комментария
